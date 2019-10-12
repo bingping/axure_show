@@ -7,8 +7,6 @@
   text-align:center;
   line-height:normal;
 }
-.image {
-}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -52,4 +50,11 @@
 }
 ._文本段落 {
   text-align:left;
+}
+._流程形状 {
+}
+.image {
+}
+.link_button {
+  color:#169BD5;
 }
